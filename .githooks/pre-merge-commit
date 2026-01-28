@@ -1,0 +1,32 @@
+#!/bin/bash
+
+PROTECTED_BRANCH="default-config"
+
+CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+
+if [ "$CURRENT_BRANCH" == "$PROTECTED_BRANCH" ]; then
+  if [ "$BYPASS_PROTECTION" != "true" ]; then
+    echo "-------------------------------------------------------"
+    echo "❌ ERROR: Merging into '$PROTECTED_BRANCH' is prohibited."
+    
+    # Identify the terminal
+    if [[ -n "$PSModulePath" ]]; then
+      # PowerShell detected
+      echo "Detected Terminal: PowerShell"
+      echo "To update intentionally, use:"
+      echo "  \$env:BYPASS_PROTECTION='true'; git merge <branch> (POWERSHELL)"
+    elif [[ "$TERM" == "xterm"* ]] || [[ -n "$BASH_VERSION" ]]; then
+      # Git Bash / Mintty detected
+      echo "Detected Terminal: Git Bash"
+      echo "To update intentionally, use:"
+      echo "  BYPASS_PROTECTION=true git merge <branch> (BASH)"
+    else
+      # Fallback for CMD or unknown
+      echo "To update intentionally, set the BYPASS_PROTECTION=true environment variable."
+      echo "  set BYPASS_PROTECTION=true && git merge <branch> (CMD)"
+    fi
+    echo "-------------------------------------------------------"
+    exit 1
+  fi
+  echo "⚠️ Bypass detected: Allowing merge into $PROTECTED_BRANCH..."
+fi
