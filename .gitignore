@@ -10,7 +10,7 @@
 .obsidian/plugins/*/data.json (optional: keep if you want settings to persist)
 
 ## Ignore obsidian-git plugin becuase - This prevents the plugin's own internal state (like its backup timer) from causing merge conflicts when you switch branches.
-# .obsidian/plugins/obsidian-git/
+.obsidian/plugins/obsidian-git/
 
 
 # Do NOT ignore community-plugins.json or themes
