@@ -4,5 +4,6 @@
   "baseFontSizeAction": true,
   "baseFontSize": 16,
   "showRibbon": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "cssTheme": "AnuPpuccin"
 }
