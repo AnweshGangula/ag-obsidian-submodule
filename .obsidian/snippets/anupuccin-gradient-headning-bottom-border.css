@@ -1,0 +1,7 @@
+.anp-header-divider-color-toggle.theme-dark .HyperMD-header,
+.anp-header-divider-color-toggle .HyperMD-header,
+.anp-header-divider-color-toggle.theme-dark .markdown-rendered :is(h1,h2,h3,h4,h5,h6) {
+    border-image-slice: 1;
+    /* border-image-source: linear-gradient(to left, rgb(var(--ctp-text)) 10%, var(--heading-gradient-color) 75%); */
+    border-image-source: linear-gradient(to right, currentColor 0% , 50% , rgb(var(--ctp-base)) 80% );
+}

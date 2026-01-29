@@ -5,5 +5,8 @@
   "baseFontSize": 16,
   "showRibbon": true,
   "nativeMenus": false,
-  "cssTheme": "AnuPpuccin"
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "anupuccin-gradient-headning-bottom-border"
+  ]
 }
