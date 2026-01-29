@@ -24,7 +24,7 @@
     "iconInFrontmatterEnabled": true,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
-    "iconsBackgroundCheckEnabled": false,
+    "iconsBackgroundCheckEnabled": true,
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
@@ -32,5 +32,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "notes/Home.md": "TiHome"
+  "notes/Home.md": "TiHome",
+  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/AG Obsidian PKM Strategy.md": "AgObsidian"
 }
