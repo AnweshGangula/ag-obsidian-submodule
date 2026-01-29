@@ -1,15 +1,25 @@
 #!/bin/bash
 
-PROTECTED_BRANCH="default-config"
+# 1. Define your list of protected branches separated by spaces
+PROTECTED_BRANCHES="default-config obsidian-no-config"
 
 CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
 
-if [ "$CURRENT_BRANCH" == "$PROTECTED_BRANCH" ]; then
+# 2. Check if the current branch is in the protected list
+IS_PROTECTED=false
+for BRANCH in $PROTECTED_BRANCHES; do
+  if [ "$CURRENT_BRANCH" == "$BRANCH" ]; then
+    IS_PROTECTED=true
+    break
+  fi
+done
+
+if [ "$IS_PROTECTED" = true ]; then
   if [ "$BYPASS_PROTECTION" != "true" ]; then
     echo "-------------------------------------------------------"
-    echo "❌ ERROR: Merging into '$PROTECTED_BRANCH' is prohibited."
+    echo "❌ ERROR: Merging into a protected branch ($CURRENT_BRANCH) is prohibited."
     
-    # Identify the terminal
+    # Identify the terminal for Windows 11 users
     if [[ -n "$PSModulePath" ]]; then
       # PowerShell detected
       echo "Detected Terminal: PowerShell"
@@ -28,5 +38,5 @@ if [ "$CURRENT_BRANCH" == "$PROTECTED_BRANCH" ]; then
     echo "-------------------------------------------------------"
     exit 1
   fi
-  echo "⚠️ Bypass detected: Allowing merge into $PROTECTED_BRANCH..."
+  echo "⚠️ Bypass detected: Allowing merge into $CURRENT_BRANCH..."
 fi
