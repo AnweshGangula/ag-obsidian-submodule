@@ -33,5 +33,8 @@
     "useInternalPlugins": false
   },
   "notes/Home.md": "TiHome",
-  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/AG Obsidian PKM Strategy.md": "AgObsidian"
+  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/AG Obsidian PKM Strategy.md": {
+    "iconName": "AgObsidian",
+    "iconColor": "#8758FF"
+  }
 }
