@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiBrandGit",
       "AgObsidian",
       "TiHome",
       "LiHome"
@@ -36,5 +37,9 @@
   "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian.md": {
     "iconName": "AgObsidian",
     "iconColor": "#8758FF"
+  },
+  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Plugins/Obsidian Git.md": {
+    "iconName": "TiBrandGit",
+    "iconColor": "#F1502F"
   }
 }
