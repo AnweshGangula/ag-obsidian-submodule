@@ -2,5 +2,6 @@
   "obsidian-linter",
   "obsidian-style-settings",
   "obsidian-icon-folder",
-  "obsidian-git"
+  "obsidian-git",
+  "heading-level-indent"
 ]
