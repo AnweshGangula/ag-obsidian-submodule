@@ -130,7 +130,7 @@
   "folderNoteName": "",
   "folderNoteProperties": "",
   "openFolderNotesInNewTab": false,
-  "hideFolderNoteInList": true,
+  "hideFolderNoteInList": false,
   "pinCreatedFolderNote": false,
   "showTags": true,
   "showTagIcons": true,
