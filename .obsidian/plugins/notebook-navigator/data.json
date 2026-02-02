@@ -204,7 +204,9 @@
   "parentFolderClickRevealsFile": true,
   "showParentFolderColor": false,
   "showParentFolderIcon": false,
-  "externalIconProviders": {},
+  "externalIconProviders": {
+    "simple-icons": true
+  },
   "searchProvider": "internal",
   "keyboardShortcuts": {
     "pane:move-up": [
