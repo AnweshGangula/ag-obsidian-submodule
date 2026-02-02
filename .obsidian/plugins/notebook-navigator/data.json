@@ -68,7 +68,7 @@
   "skipAutoScroll": false,
   "showRecentNotes": true,
   "recentNotesCount": 8,
-  "calendarPlacement": "left-sidebar",
+  "calendarPlacement": "right-sidebar",
   "calendarLocale": "system-default",
   "calendarWeekendDays": "sat-sun",
   "calendarWeeksToShow": 6,
