@@ -23,8 +23,8 @@
   "folderNoteType": ".md",
   "disableFolderHighlighting": false,
   "newFolderNoteName": "{{folder_name}}",
-  "storageLocation": "insideFolder",
-  "syncDelete": false,
+  "storageLocation": "parentFolder",
+  "syncDelete": true,
   "showRenameConfirmation": true,
   "defaultOverview": {
     "id": "",
