@@ -16,3 +16,6 @@
 
 # Do NOT ignore community-plugins.json or themes
 # as these define your branch "identity"
+
+## ignore recent-files data.json since it's probably only relevant for my current device
+.obsidian/plugins/recent-files-obsidian/data.json
