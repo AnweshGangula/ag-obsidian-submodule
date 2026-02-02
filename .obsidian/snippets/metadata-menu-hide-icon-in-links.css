@@ -1,0 +1,6 @@
+.view-content .fileclass-icon {
+	/* this hides the metadata fileclass-icon which opens a dialog to edit metadata
+	The icon is hidden only inside the view-content, not in the side-bar
+	*/
+	display: none;
+}
