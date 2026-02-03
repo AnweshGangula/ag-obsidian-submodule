@@ -1,12 +1,31 @@
 {
-  "presetFields": [],
+  "presetFields": [
+    {
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "active",
+          "2": "archive",
+          "3": "trash | {{date}}"
+        }
+      },
+      "name": "file-lifecycle",
+      "id": "qqR8RA",
+      "path": ""
+    }
+  ],
   "fileClassQueries": [],
   "displayFieldsInContextMenu": true,
   "globallyIgnoredFields": [],
   "classFilesPath": "notes/00. _meta/schemas/file-classes/",
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.0",
+  "settingsVersion": "5.2",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,
