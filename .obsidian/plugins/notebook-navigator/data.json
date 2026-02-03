@@ -125,7 +125,7 @@
   "inheritFolderColors": false,
   "folderSortOrder": "alpha-asc",
   "inheritTagColors": true,
-  "enableFolderNotes": false,
+  "enableFolderNotes": true,
   "folderNoteType": "markdown",
   "folderNoteName": "",
   "folderNoteProperties": "",
