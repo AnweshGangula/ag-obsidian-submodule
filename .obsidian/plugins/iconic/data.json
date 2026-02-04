@@ -29,7 +29,15 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Callout manager.md": {
+      "icon": "lucide-message-square-text"
+    },
+    "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Creases.md": {
+      "icon": "lucide-shirt",
+      "color": "red"
+    }
+  },
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},
