@@ -19,7 +19,7 @@
   "anuppuccin-theme-settings@@anp-h1-divider": true,
   "anuppuccin-theme-settings@@anp-h2-divider": true,
   "anuppuccin-theme-settings@@anp-h3-divider": true,
-  "anuppuccin-theme-settings@@anp-file-icons": true,
+  "anuppuccin-theme-settings@@anp-file-icons": false,
   "anuppuccin-theme-settings@@anp-floating-header": true,
   "anuppuccin-theme-settings@@anp-collapse-folders": false,
   "anuppuccin-theme-settings@@anp-custom-vault-toggle": false,
