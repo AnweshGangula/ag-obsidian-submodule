@@ -1,10 +1,11 @@
 [
-  "obsidian-linter",
-  "obsidian-style-settings",
-  "obsidian-icon-folder",
-  "obsidian-git",
-  "heading-level-indent",
-  "metadata-menu",
-  "recent-files-obsidian",
-  "obsidian-minimal-settings"
+	"obsidian-linter",
+	"obsidian-style-settings",
+	"obsidian-icon-folder",
+	"obsidian-git",
+	"heading-level-indent",
+	"metadata-menu",
+	"recent-files-obsidian",
+  "obsidian-minimal-settings",
+	"sheet-plus"
 ]
