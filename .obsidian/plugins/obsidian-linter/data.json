@@ -280,8 +280,8 @@
   "foldersToIgnore": [],
   "filesToIgnore": [
     {
-      "label": "readme",
-      "match": "README.md",
+      "label": "univer spreadsheets",
+      "match": ".*\\.univer\\.md$",
       "flags": "i"
     }
   ],
