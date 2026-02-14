@@ -32,5 +32,12 @@
   "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
   "anuppuccin-theme-settings@@anp-callout-fold-position": "0",
   "anuppuccin-theme-settings@@anp-list-toggle": true,
-  "anuppuccin-theme-settings@@anp-button-metadata-toggle": true
+  "anuppuccin-theme-settings@@anp-button-metadata-toggle": true,
+  "things-style@@active-line": true,
+  "things-style@@fancy-code": true,
+  "things-style@@fancy-highlight": true,
+  "things-style@@link-decoration": "None",
+  "minimal-style@@callouts-style": "callouts-default",
+  "minimal-style@@callout-blend-mode": "var(--highlight-mix-blend-mode)",
+  "minimal-advanced@@cursor": "pointer"
 }
