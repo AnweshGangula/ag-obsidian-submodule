@@ -5,7 +5,7 @@
   "baseFontSize": 16,
   "showRibbon": true,
   "nativeMenus": false,
-  "cssTheme": "Minimal",
+  "cssTheme": "Things",
   "enabledCssSnippets": [
     "anupuccin-gradient-headning-bottom-border"
   ]

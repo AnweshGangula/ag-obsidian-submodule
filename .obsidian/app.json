@@ -4,5 +4,5 @@
   "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": false,
   "showUnsupportedFiles": true,
-  "readableLineLength": false
+  "readableLineLength": true
 }
