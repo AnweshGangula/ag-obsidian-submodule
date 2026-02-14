@@ -3,5 +3,6 @@
   "newFileFolderPath": "notes",
   "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "readableLineLength": false
 }

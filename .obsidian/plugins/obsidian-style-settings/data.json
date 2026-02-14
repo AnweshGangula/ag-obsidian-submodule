@@ -39,5 +39,9 @@
   "things-style@@link-decoration": "None",
   "minimal-style@@callouts-style": "callouts-default",
   "minimal-style@@callout-blend-mode": "var(--highlight-mix-blend-mode)",
-  "minimal-advanced@@cursor": "pointer"
+  "minimal-advanced@@cursor": "pointer",
+  "things-style@@h1-color": "#B948FB",
+  "things-style@@h3-color": "#FECA57",
+  "things-style@@h4-color": "#48DBFB",
+  "things-style@@h2-color": "#2E80F2"
 }
