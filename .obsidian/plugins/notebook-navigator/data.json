@@ -11,7 +11,12 @@
       "hiddenFileProperties": [],
       "navigationBanner": null,
       "periodicNotesFolder": "00. Journal",
-      "shortcuts": []
+      "shortcuts": [
+        {
+          "type": "folder",
+          "path": "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs"
+        }
+      ]
     }
   ],
   "vaultProfile": "default",
