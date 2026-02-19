@@ -1,14 +1,12 @@
 [
   "obsidian-linter",
   "obsidian-style-settings",
+  "obsidian-icon-folder",
   "obsidian-git",
   "heading-level-indent",
   "metadata-menu",
+  "notebook-navigator",
   "folder-notes",
-  "codeblock-customizer",
-  "obsidian-minimal-settings",
-  "iconic",
-  "my-svgs",
-  "obsidian-outliner",
-  "omnisearch"
+  "omnisearch",
+  "obsidian-outliner"
 ]
