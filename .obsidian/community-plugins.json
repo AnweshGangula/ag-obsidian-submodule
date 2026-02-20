@@ -1,12 +1,12 @@
 [
-	"obsidian-linter",
-	"obsidian-style-settings",
-	"obsidian-icon-folder",
-	"obsidian-git",
-	"heading-level-indent",
-	"metadata-menu",
-	"notebook-navigator",
-	"folder-notes",
-	"omnisearch",
-	"obsidian-outliner"
+  "obsidian-linter",
+  "obsidian-style-settings",
+  "obsidian-icon-folder",
+  "obsidian-git",
+  "heading-level-indent",
+  "metadata-menu",
+  "omnisearch",
+  "obsidian-outliner",
+  "notebook-navigator",
+  "folder-notes"
 ]

@@ -87,7 +87,7 @@
   "calendarCustomWeekPattern": "gggg/[W]-ww",
   "calendarCustomMonthPattern": "YYYY/YYYY-MM",
   "calendarCustomQuarterPattern": "gggg/[Q]-Q",
-  "calendarCustomYearPattern": "",
+  "calendarCustomYearPattern": "YYYY",
   "calendarTemplateFolder": "notes/00. _meta/templates",
   "calendarCustomFileTemplate": null,
   "calendarCustomWeekTemplate": null,
@@ -127,7 +127,7 @@
   "springLoadedFoldersSubsequentDelay": 0.5,
   "showFolderIcons": true,
   "showRootFolder": false,
-  "inheritFolderColors": false,
+  "inheritFolderColors": true,
   "folderSortOrder": "alpha-asc",
   "inheritTagColors": true,
   "enableFolderNotes": true,
@@ -149,7 +149,7 @@
   "propertySortKey": "",
   "revealFileOnListChanges": true,
   "listPaneTitle": "list",
-  "noteGrouping": "none",
+  "noteGrouping": "folder",
   "filterPinnedByFolder": true,
   "showPinnedGroupHeader": true,
   "showPinnedIcon": true,
@@ -171,7 +171,7 @@
   "frontmatterDateFormat": "",
   "saveMetadataToFrontmatter": true,
   "showFileIcons": true,
-  "showFilenameMatchIcons": false,
+  "showFilenameMatchIcons": true,
   "fileNameIconMap": {},
   "showCategoryIcons": true,
   "fileTypeIconMap": {},
@@ -207,12 +207,12 @@
   "alphabeticalDateMode": "modified",
   "showParentFolder": true,
   "parentFolderClickRevealsFile": true,
-  "showParentFolderColor": false,
-  "showParentFolderIcon": false,
+  "showParentFolderColor": true,
+  "showParentFolderIcon": true,
   "externalIconProviders": {
     "simple-icons": true
   },
-  "searchProvider": "internal",
+  "searchProvider": "omnisearch",
   "keyboardShortcuts": {
     "pane:move-up": [
       {
@@ -411,7 +411,7 @@
     "#404040"
   ],
   "lastShownVersion": "2.2.3",
-  "lastAnnouncedRelease": "",
+  "lastAnnouncedRelease": "2.4.1",
   "rootFolderOrder": [],
   "rootTagOrder": []
 }
