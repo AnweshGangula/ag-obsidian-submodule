@@ -4,5 +4,6 @@
   "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": false,
   "showUnsupportedFiles": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "vimMode": true
 }
