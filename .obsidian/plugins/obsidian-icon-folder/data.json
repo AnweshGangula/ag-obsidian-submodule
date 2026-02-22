@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiHome",
-      "LiBriefcaseBusiness",
-      "LiTextCursorInput",
+      "LiGrip",
       "LiPalette",
-      "LiColumnsSettings"
+      "LiClipboardClock",
+      "LiSettings",
+      "LiShirt"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,13 +41,6 @@
     "iconName": "AgObsidian",
     "iconColor": "#8758FF"
   },
-  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Obsidian Git.md": {
-    "iconName": "TiBrandGit",
-    "iconColor": "#F1502F"
-  },
-  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Admonition.md": {
-    "iconName": "LiMessageSquarePlus"
-  },
   "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Banners Reloaded.md": {
     "iconName": "LiImageUp"
   },
@@ -63,32 +56,8 @@
   "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Dynamic Outline.md": {
     "iconName": "LiListTree"
   },
-  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Folder Notes.md": {
-    "iconName": "LiFolderPen"
-  },
-  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Heading Level Indent.md": {
-    "iconName": "LiIndent"
-  },
-  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Highlightr.md": {
-    "iconName": "LiHighlighter"
-  },
-  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Iconic.md": {
-    "iconName": "LiGrip"
-  },
-  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Iconize.md": {
-    "iconName": "LiGrip"
-  },
-  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Meta Bind.md": {
-    "iconName": "LiMousePointerClick"
-  },
-  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Metadata Menu.md": {
-    "iconName": "LiListPlus"
-  },
   "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Natural Language Dates.md": {
     "iconName": "LiCalendar1"
-  },
-  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Notebook Navigator.md": {
-    "iconName": "LiFolderTree"
   },
   "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Open Tab Settings.md": {
     "iconName": "LiSettings"
@@ -102,13 +71,19 @@
   "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Style Settings.md": {
     "iconName": "LiPalette"
   },
-  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Various Completions.md": {
-    "iconName": "LiTextCursorInput"
-  },
   "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Themes/Annupuccin.md": {
     "iconName": "LiPalette"
   },
   "notes/02. Areas/40-49 Career/48 Work/48 Work.md": {
     "iconName": "LiBriefcaseBusiness"
+  },
+  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Notebook Navigator.md": {
+    "iconName": "LiFolderTree"
+  },
+  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Iconic.md": {
+    "iconName": "LiGrip"
+  },
+  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Meta Bind.md": {
+    "iconName": "LiMousePointerClick"
   }
 }
