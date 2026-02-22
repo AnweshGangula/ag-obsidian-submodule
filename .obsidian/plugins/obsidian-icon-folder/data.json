@@ -22,7 +22,7 @@
     },
     "iconInTabsEnabled": true,
     "iconInTitleEnabled": true,
-    "iconInTitlePosition": "above",
+    "iconInTitlePosition": "inline",
     "iconInFrontmatterEnabled": true,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
