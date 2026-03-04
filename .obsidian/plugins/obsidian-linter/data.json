@@ -191,7 +191,7 @@
       "enabled": false
     },
     "empty-line-around-code-fences": {
-      "enabled": true
+      "enabled": false
     },
     "empty-line-around-horizontal-rules": {
       "enabled": true
