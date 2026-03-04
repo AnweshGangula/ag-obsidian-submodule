@@ -10,5 +10,7 @@
   "callout-manager",
   "callout-suggestions",
   "settings-search",
-  "obsidian-list-callouts"
+  "obsidian-list-callouts",
+  "codeblock-customizer",
+  "typewriter-mode"
 ]
