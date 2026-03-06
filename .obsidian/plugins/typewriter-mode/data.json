@@ -8,7 +8,7 @@
   },
   "typewriter": {
     "isTypewriterScrollEnabled": true,
-    "isOnlyMaintainTypewriterOffsetWhenReachedEnabled": false,
+    "isOnlyMaintainTypewriterOffsetWhenReachedEnabled": true,
     "isTypewriterOnlyUseCommandsEnabled": false,
     "typewriterOffset": 0.5
   },
@@ -26,7 +26,7 @@
     "isDimTableAsOneEnabled": true,
     "dimUnfocusedMode": "paragraphs",
     "dimUnfocusedEditorsBehavior": "dim",
-    "dimmedOpacity": 0.25,
+    "dimmedOpacity": 0.5,
     "isPauseDimUnfocusedWhileScrollingEnabled": true,
     "isPauseDimUnfocusedWhileSelectingEnabled": true
   },
@@ -39,15 +39,15 @@
     "isPauseCurrentLineHighlightWhileSelectingEnabled": false,
     "currentLineHighlightStyle": "box",
     "currentLineHighlightUnderlineThickness": 1,
-    "currentLineHighlightColor-dark": "#444",
+    "currentLineHighlightColor-dark": "rgba(56, 56, 56, 0.52)",
     "currentLineHighlightColor-light": "#ddd"
   },
   "writingFocus": {
-    "doesWritingFocusShowHeader": false,
+    "doesWritingFocusShowHeader": true,
     "doesWritingFocusShowVignette": true,
-    "doesWritingFocusShowStatusBar": false,
+    "doesWritingFocusShowStatusBar": true,
     "isWritingFocusFullscreen": true,
-    "writingFocusVignetteStyle": "box",
+    "writingFocusVignetteStyle": "column",
     "writingFocusFontSize": 0
   },
   "restoreCursorPosition": {
