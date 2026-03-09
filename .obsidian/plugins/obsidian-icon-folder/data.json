@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiGrip",
-      "LiPalette",
-      "LiClipboardClock",
-      "LiSettings",
-      "LiShirt"
+      "LiFolderTree",
+      "LiCalendar1",
+      "LiMousePointerClick",
+      "LiHighlighter",
+      "LiIndent"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -88,5 +88,41 @@
   },
   "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Iconize.md": {
     "iconName": "LiGrip"
+  },
+  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Admonition.md": {
+    "iconName": "LiMessageSquarePlus"
+  },
+  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Banners Reloaded.md": {
+    "iconName": "LiImageUp"
+  },
+  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Calendar.md": {
+    "iconName": "LiCalendarDays"
+  },
+  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Callout manager.md": {
+    "iconName": "LiMessageSquareText"
+  },
+  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Creases.md": {
+    "iconName": "LiShirt"
+  },
+  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Dynamic Outline.md": {
+    "iconName": "LiListTree"
+  },
+  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Folder Notes.md": {
+    "iconName": "LiFolderPen"
+  },
+  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Heading Level Indent.md": {
+    "iconName": "LiIndent"
+  },
+  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Highlightr.md": {
+    "iconName": "LiHighlighter"
+  },
+  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Meta Bind.md": {
+    "iconName": "LiMousePointerClick"
+  },
+  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Natural Language Dates.md": {
+    "iconName": "LiCalendar1"
+  },
+  "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Notebook Navigator.md": {
+    "iconName": "LiFolderTree"
   }
 }
