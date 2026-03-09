@@ -7,7 +7,7 @@
   "displayInlineReferencesLivePreview": true,
   "displayInlineReferencesMarkdown": true,
   "displayInlineReferencesInSourceMode": false,
-  "displayEmbedReferencesInGutter": true,
+  "displayEmbedReferencesInGutter": false,
   "displayEmbedReferencesInGutterMobile": false,
   "displayPropertyReferences": true,
   "displayPropertyReferencesMobile": false,
