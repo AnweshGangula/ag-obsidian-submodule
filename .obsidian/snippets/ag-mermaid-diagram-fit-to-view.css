@@ -1,0 +1,6 @@
+/* reference: https://unmesh.dev/post/obsidian_mermaid/ */
+
+.mermaid svg {
+    max-width: 100%;
+    height: auto;
+}
