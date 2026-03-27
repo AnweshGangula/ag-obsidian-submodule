@@ -1,0 +1,42 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "notes/00-09 _Management/00 System/00.01 Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins",
+      "template": "notes/00-09 _Management/00 System/00.01 Templates/obsidian-plugin-template.md"
+    },
+    {
+      "folder": "notes/10-19 Calendar/11 Daily Logs/11.01 Interactions",
+      "template": "notes/00-09 _Management/00 System/00.01 Templates/daily-note-interaction-template.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}

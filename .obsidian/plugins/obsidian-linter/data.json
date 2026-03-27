@@ -277,7 +277,9 @@
   "lintOnFileChange": true,
   "displayLintOnFileChangeNotice": true,
   "settingsConvertedToConfigKeyValues": true,
-  "foldersToIgnore": [],
+  "foldersToIgnore": [
+    "notes/00-09 _Management"
+  ],
   "filesToIgnore": [
     {
       "label": "univer spreadsheets",
