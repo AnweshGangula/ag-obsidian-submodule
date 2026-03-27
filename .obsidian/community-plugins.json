@@ -18,5 +18,9 @@
   "obsidian-focus-mode",
   "obsidian-mindmap-nextgen",
   "obsidian-advanced-uri",
-  "dataview"
+  "dataview",
+  "calendar",
+  "recent-files-obsidian",
+  "tag-wrangler",
+  "templater-obsidian"
 ]
