@@ -19,3 +19,4 @@
 
 ## ignore recent-files data.json since it's probably only relevant for my current device
 .obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/plugins/obsidian-designer
