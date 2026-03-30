@@ -1,0 +1,11 @@
+.calendar {
+  --color-background-weekend: rgb(from var(--color-background-day) r g b / 0.1);
+}
+
+
+/* 
+.calendar .weekend {
+    background-color: var(--color-background-weekend);
+    background-color: rgb(from var(--color-background-day) r g b / 0.2);
+}
+*/

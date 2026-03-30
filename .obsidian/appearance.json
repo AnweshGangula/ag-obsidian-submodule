@@ -8,6 +8,7 @@
   "cssTheme": "Border",
   "enabledCssSnippets": [
     "anupuccin-gradient-headning-bottom-border",
-    "ag-mermaid-diagram-fit-to-view"
+    "ag-mermaid-diagram-fit-to-view",
+    "ag-calendar-plugin"
   ]
 }
