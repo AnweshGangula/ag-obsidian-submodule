@@ -1,0 +1,10 @@
+@media print {
+	/* ref: https://www.reddit.com/r/ObsidianMD/comments/1iyhha9/are_page_breaks_possible_in_obsidian/ */
+	
+    /* @page {
+        margin: 72pt;
+    } */
+    h1, h2, h3, h4, h5, h6 {
+        break-after: avoid-page !important;
+    }
+}

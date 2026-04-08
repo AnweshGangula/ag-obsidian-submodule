@@ -9,6 +9,7 @@
   "enabledCssSnippets": [
     "anupuccin-gradient-headning-bottom-border",
     "ag-mermaid-diagram-fit-to-view",
-    "ag-calendar-plugin"
+    "ag-calendar-plugin",
+    "ag-pdf-page-break"
   ]
 }
