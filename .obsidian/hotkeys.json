@@ -1,20 +1,4 @@
 {
-  "editor:swap-line-up": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowUp"
-    }
-  ],
-  "editor:swap-line-down": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowDown"
-    }
-  ],
   "omnisearch:show-modal": [
     {
       "modifiers": [
@@ -23,5 +7,35 @@
       "key": "O"
     }
   ],
-  "switcher:open": []
+  "switcher:open": [],
+  "obsidian-outliner:move-list-item-up": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "obsidian-outliner:move-list-item-down": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ]
 }
