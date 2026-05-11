@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiListTree",
-      "LiImageUp",
-      "LiFolderPen",
-      "LiCalendarDays",
-      "LiClipboardClock"
+      "LiTextCursorInput",
+      "LiPalette",
+      "LiColumnsSettings",
+      "LiSettings",
+      "LiListTree"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -130,5 +130,17 @@
   },
   "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Recent files.md": {
     "iconName": "LiClipboardClock"
+  },
+  "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Open Tab Settings.md": {
+    "iconName": "LiSettings"
+  },
+  "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Settings Profile.md": {
+    "iconName": "LiColumnsSettings"
+  },
+  "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Style Settings.md": {
+    "iconName": "LiPalette"
+  },
+  "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Various Completions.md": {
+    "iconName": "LiTextCursorInput"
   }
 }
