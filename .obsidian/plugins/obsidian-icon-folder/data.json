@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiListPlus",
       "LiTextCursorInput",
       "LiPalette",
       "LiColumnsSettings",
-      "LiSettings",
-      "LiListTree"
+      "LiSettings"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -142,5 +142,8 @@
   },
   "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Various Completions.md": {
     "iconName": "LiTextCursorInput"
+  },
+  "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Metadata Menu.md": {
+    "iconName": "LiListPlus"
   }
 }
