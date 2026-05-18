@@ -1,3 +1,7 @@
+---
+description: "Find unlinked related notes across the vault for a given note and suggest wikilink connections with relationship type and direction. Use when the user shares a note and asks what else relates to it, or asks to find connections or backlinks."
+---
+
 Find unlinked related notes for a given note.
 
 Note to find connections for: $ARGUMENTS

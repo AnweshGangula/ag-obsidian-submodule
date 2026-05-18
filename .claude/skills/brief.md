@@ -1,7 +1,12 @@
+---
+description: "Generate a concise stand-up brief for a project folder covering current phase, recent decisions, open questions, blockers, and next actions. Invoke explicitly with /brief — do not auto-trigger."
+disable-model-invocation: true
+---
+
 Generate a stand-up brief for a project.
 
 Project folder: $ARGUMENTS
-(If not provided, ask which project — look in `notes/30 Projects/active/`)
+(If not provided, ask which project — look in `notes/30 Projects/`)
 
 Steps:
 1. Read all notes in the specified project folder, prioritizing `_project.md`

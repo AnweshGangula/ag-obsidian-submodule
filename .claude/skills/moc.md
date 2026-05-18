@@ -1,3 +1,8 @@
+---
+description: "Draft a Map of Content structure for a domain folder by clustering evergreen notes into thematic groups with connecting prose. Invoke explicitly with /moc — do not auto-trigger."
+disable-model-invocation: true
+---
+
 Draft a Map of Content (MOC) structure for a domain folder.
 
 Domain folder to map: $ARGUMENTS

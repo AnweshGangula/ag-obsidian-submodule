@@ -1,3 +1,7 @@
+---
+description: "Draft a complete concept note with frontmatter, body, code example, and Prose Tax paragraph from raw bullet captures or a topic name. Use when the user pastes raw bullets or captures and asks to turn them into a note, or asks to write/draft a concept note."
+---
+
 Draft a new concept note from raw bullet captures.
 
 Input: $ARGUMENTS

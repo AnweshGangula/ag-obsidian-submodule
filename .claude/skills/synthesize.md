@@ -1,3 +1,7 @@
+---
+description: "Generate a synthesis of current knowledge, gaps, and next learning priority for a vault domain. Use when the user asks about their knowledge state, what to learn next, or requests a domain summary or gap analysis."
+---
+
 Generate a synthesis of current knowledge in a domain.
 
 Domain or folder to synthesize: $ARGUMENTS

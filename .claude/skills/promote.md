@@ -1,3 +1,7 @@
+---
+description: "Process $ promotion-candidate bullets from a daily journal note into concept note drafts with Prose Tax paragraphs and suggested frontmatter. Use when the user pastes daily note content containing $ bullets or asks to process/promote captures from a daily note."
+---
+
 Process the promotion candidates from a daily note.
 
 Read the file at: $ARGUMENTS

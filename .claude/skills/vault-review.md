@@ -1,3 +1,8 @@
+---
+description: "Run the complete Sunday weekly vault review: inbox audit, stale fleeting notes, promotion candidates from daily notes, and domain health summary. Invoke explicitly with /vault-review — do not auto-trigger."
+disable-model-invocation: true
+---
+
 Run a complete weekly vault review. This is the Sunday 1-hour ritual command.
 
 Arguments (optional): $ARGUMENTS — pass a date range like `2026-05-11 to 2026-05-18`, otherwise defaults to the last 7 days.
