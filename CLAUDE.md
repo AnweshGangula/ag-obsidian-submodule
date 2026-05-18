@@ -114,8 +114,9 @@ Run these in the Claude Code CLI from this repo's root:
 | `/brief` | Project stand-up summary |
 | `/write-note` | Draft a concept note from raw bullets |
 | `/vault-review` | Full weekly review: inbox + stale notes + synthesis |
+| `/migrate` | Run the next step of the v2 migration with step-by-step approval |
 
-Full command prompts: `.claude/commands/[command-name].md`
+Skill files: `.claude/skills/[command-name].md`
 
 ## Reference Files
 
