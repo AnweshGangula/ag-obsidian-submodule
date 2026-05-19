@@ -111,9 +111,9 @@ Run these in the Claude Code CLI from this repo's root:
 | `/synthesize` | Domain knowledge summary + gaps + next priority |
 | `/moc` | Draft MOC structure for a domain folder |
 | `/connect` | Find unlinked related notes for a given note |
-| `/brief` | Project stand-up summary |
+| `/project` | Project lifecycle: `new` / `brief` / `close` / `status` |
 | `/write-note` | Draft a concept note from raw bullets |
-| `/vault-review` | Full weekly review: inbox + stale notes + synthesis |
+| `/vault-review` | Full weekly review: projects pulse + inbox + stale notes + synthesis |
 | `/migrate` | Run the next step of the v2 migration with step-by-step approval |
 
 Skill files: `.claude/skills/[command-name].md`

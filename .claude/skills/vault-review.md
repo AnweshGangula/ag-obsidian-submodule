@@ -7,7 +7,21 @@ Run a complete weekly vault review. This is the Sunday 1-hour ritual command.
 
 Arguments (optional): $ARGUMENTS — pass a date range like `2026-05-11 to 2026-05-18`, otherwise defaults to the last 7 days.
 
-This command runs four sequential checks and outputs a complete review brief.
+This command runs five sequential checks and outputs a complete review brief.
+
+---
+
+## Step 0: Projects Pulse
+
+Read all notes in `notes/30 Projects/` with `type: project`.
+For each project, show: name, `project-type`, `status`, days since last modified.
+
+Flag with ⚠️ any project that:
+- Has `status: active` or `status: on-hold` and has NOT been modified in more than 14 days
+- Has `status: active` but an empty Decision Log table (no rows added)
+- Has `status: fleeting` and was created more than 7 days ago (never started)
+
+Output as a table. Recommend action for each flagged project: "needs update", "move to on-hold?", or "start or delete".
 
 ---
 
