@@ -10,7 +10,7 @@ Domain or folder to synthesize: $ARGUMENTS
 Steps:
 1. Read all notes in `notes/40 Areas/[domain]/` — focus on notes with `status: evergreen` or `status: processing`
 2. Read the domain context file at `notes/00 _System/claude/domains/[domain].md` if it exists
-3. Read the learning roadmap at `notes/Full-Stack 3D Engineering Roadmap — Graphics, Simulation & Digital Twins.md` (for technical domains) to understand the target learning state
+3. Read the learning roadmap at `notes/40 Areas/career/learning-roadmap/Full-Stack 3D Engineering Roadmap — Graphics, Simulation & Digital Twins.md` (for technical domains) to understand the target learning state
 
 Then write a synthesis with these three sections:
 
