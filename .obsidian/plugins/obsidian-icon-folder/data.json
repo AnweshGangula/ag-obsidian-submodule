@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBrainCircuit",
-      "LiListPlus",
+      "LiBriefcaseBusiness",
       "LiTextCursorInput",
       "LiPalette",
-      "LiColumnsSettings"
+      "LiColumnsSettings",
+      "LiClipboardClock"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -80,73 +80,73 @@
   "notes/02. Areas/10-19 Personal Life/11.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Meta Bind.md": {
     "iconName": "LiMousePointerClick"
   },
-  "notes/60-69 Career/62 Work/48 Work.md": {
-    "iconName": "LiBriefcaseBusiness"
+  "notes/40 Areas/pkm/Second Brain.md": {
+    "iconName": "LiBrainCircuit"
   },
-  "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Themes/Annupuccin.md": {
+  "notes/40 Areas/pkm/Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Themes/Annupuccin.md": {
     "iconName": "LiPalette"
   },
-  "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Admonition.md": {
+  "notes/40 Areas/pkm/Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Admonition.md": {
     "iconName": "LiMessageSquarePlus"
   },
-  "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Calendar.md": {
-    "iconName": "LiCalendarDays"
-  },
-  "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Creases.md": {
-    "iconName": "LiShirt"
-  },
-  "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Callout manager.md": {
-    "iconName": "LiMessageSquareText"
-  },
-  "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Banners Reloaded.md": {
+  "notes/40 Areas/pkm/Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Banners Reloaded.md": {
     "iconName": "LiImageUp"
   },
-  "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Dynamic Outline.md": {
+  "notes/40 Areas/pkm/Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Calendar.md": {
+    "iconName": "LiCalendarDays"
+  },
+  "notes/40 Areas/pkm/Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Callout manager.md": {
+    "iconName": "LiMessageSquareText"
+  },
+  "notes/40 Areas/pkm/Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Creases.md": {
+    "iconName": "LiShirt"
+  },
+  "notes/40 Areas/pkm/Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Dynamic Outline.md": {
     "iconName": "LiListTree"
   },
-  "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Folder Notes.md": {
+  "notes/40 Areas/pkm/Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Folder Notes.md": {
     "iconName": "LiFolderPen"
   },
-  "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Heading Level Indent.md": {
+  "notes/40 Areas/pkm/Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Heading Level Indent.md": {
     "iconName": "LiIndent"
   },
-  "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Meta Bind.md": {
-    "iconName": "LiMousePointerClick"
-  },
-  "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Iconic.md": {
-    "iconName": "LiGrip"
-  },
-  "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Natural Language Dates.md": {
-    "iconName": "LiCalendar1"
-  },
-  "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Highlightr.md": {
+  "notes/40 Areas/pkm/Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Highlightr.md": {
     "iconName": "LiHighlighter"
   },
-  "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Iconize.md": {
+  "notes/40 Areas/pkm/Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Iconic.md": {
     "iconName": "LiGrip"
   },
-  "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Notebook Navigator.md": {
-    "iconName": "LiFolderTree"
+  "notes/40 Areas/pkm/Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Iconize.md": {
+    "iconName": "LiGrip"
   },
-  "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Recent files.md": {
-    "iconName": "LiClipboardClock"
+  "notes/40 Areas/pkm/Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Meta Bind.md": {
+    "iconName": "LiMousePointerClick"
   },
-  "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Open Tab Settings.md": {
-    "iconName": "LiSettings"
-  },
-  "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Settings Profile.md": {
-    "iconName": "LiColumnsSettings"
-  },
-  "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Style Settings.md": {
-    "iconName": "LiPalette"
-  },
-  "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Various Completions.md": {
-    "iconName": "LiTextCursorInput"
-  },
-  "notes/30-39 Areas/31 Life OS/31.11 Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Metadata Menu.md": {
+  "notes/40 Areas/pkm/Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Metadata Menu.md": {
     "iconName": "LiListPlus"
   },
-  "notes/30-39 Areas/31 Life OS/11.11 Second Brain.md": {
-    "iconName": "LiBrainCircuit"
+  "notes/40 Areas/pkm/Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Natural Language Dates.md": {
+    "iconName": "LiCalendar1"
+  },
+  "notes/40 Areas/pkm/Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Notebook Navigator.md": {
+    "iconName": "LiFolderTree"
+  },
+  "notes/40 Areas/pkm/Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Open Tab Settings.md": {
+    "iconName": "LiSettings"
+  },
+  "notes/40 Areas/pkm/Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Recent files.md": {
+    "iconName": "LiClipboardClock"
+  },
+  "notes/40 Areas/pkm/Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Settings Profile.md": {
+    "iconName": "LiColumnsSettings"
+  },
+  "notes/40 Areas/pkm/Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Style Settings.md": {
+    "iconName": "LiPalette"
+  },
+  "notes/40 Areas/pkm/Second Brain/Tools for Thought (Tft)/Obsidian/Obsidian-Docs/Plugins/Community/Various Completions.md": {
+    "iconName": "LiTextCursorInput"
+  },
+  "notes/40 Areas/career/Work.md": {
+    "iconName": "LiBriefcaseBusiness"
   }
 }
